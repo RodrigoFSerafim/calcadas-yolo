@@ -1,0 +1,17 @@
+path: C:\Users\digod\OneDrive\Documentos\VS Code\calcadas-yolo\calcadas-yolo\dataset
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: buraco_trinca
+  1: lixo
+  2: piso_liso
+  3: poste_obstaculo
+
+roboflow:
+  workspace: rodrigofernandes3espg
+  project: sidewalk-vs1bq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rodrigofernandes3espg/sidewalk-vs1bq/dataset/1

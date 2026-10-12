@@ -1,0 +1,11 @@
+# Instale o PyTorch com CUDA ANTES (RTX 4060):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+ultralytics>=8.3
+matplotlib
+pandas
+pyyaml
+# Só necessário para exportar TFLite (se falhar no Windows, exporte no Colab):
+# tensorflow
+# onnx
+# onnxslim
+# onnxruntime

@@ -1,0 +1,20 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Dataset bruto é pesado: versione só amostras/estatísticas
+dataset/train/
+dataset/valid/
+dataset/test/
+dataset/*.zip
+
+# Saídas de treino (copie o que importa para assets/ e models/)
+runs/
+*.cache
+
+# Pesos base baixados automaticamente
+yolov8n.pt
+yolo11n.pt
