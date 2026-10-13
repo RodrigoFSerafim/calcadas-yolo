@@ -11,8 +11,7 @@ dataset/valid/
 dataset/test/
 dataset/*.zip
 
-# Saídas de treino (copie o que importa para assets/ e models/)
-runs/
+# Saidas de treino versionadas
 *.cache
 
 # Pesos base baixados automaticamente
