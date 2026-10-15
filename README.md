@@ -7,7 +7,7 @@ rodando em tempo real no celular via **yoloinferApp** (ONNX Runtime Web).
 
 | Nome | RM |
 | :--- | :--- |
-| Rodrigo | 550816 |
+| Rodrigo Fernandes Serafim | 550816 |
 
 **Turma:** 4ESPG · **Instituição:** FIAP
 
